@@ -1,0 +1,5 @@
+name: EasyNetheriteIngots
+version: 1.0
+main: com.luke.customrecipe.EasyNetheriteIngots
+api-version: '26'
+description: Easy Netherite Ingots makes crafting netherite cheaper
